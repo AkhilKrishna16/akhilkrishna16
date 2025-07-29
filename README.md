@@ -56,14 +56,12 @@ A dedicated repo for consistent algorithm & data structure challenges—perfecti
 ## 📎 Connect with Me
 
 - 🐙 GitHub: [@AkhilKrishna16](https://github.com/AkhilKrishna16)  
-- 🌐 Devpost: [A.K Krishnamurthy](https://devpost.com/akhil-krishnamurthy2006) :contentReference[oaicite:4]{index=4}  
-- 📧 Email: akhil.krish.work@gmail.com (available via LinkedIn) :contentReference[oaicite:5]{index=5}  
-- 🔗 LinkedIn: Computer Science @ UT Austin, Fidelity Investments :contentReference[oaicite:6]{index=6}
+- 🌐 Devpost: [A.K Krishnamurthy](https://devpost.com/akhil-krishnamurthy2006)
+- 📧 Email: akhil.krish.work@gmail.com (available via LinkedIn)
+- 🔗 LinkedIn: Computer Science @ UT Austin, Fidelity Investments
 
 ---
 
 ## 🚀 Let’s Build Together
 
 I’m always open to collaborating on full-stack apps, ML/AI solutions, or innovative community projects. Feel free to reach out!
-
-> “Consistent improvement beats occasional brilliance.” – My code philosophy 🛠️
